@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy, world! 👋
+
+I am a data science major at the University of Rochester interested in artificial intelligence, deep learning, and space. Getting acquainted with github.
+
 
 <!--
 **skyecrocker/skyecrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
